@@ -1,0 +1,14 @@
+C:\CSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.exe
+C:\CSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.deps.json
+C:\CSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.runtimeconfig.json
+C:\CSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.dll
+C:\CSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.pdb
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfo.cs
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.dll
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\refint\HelloCSharp.dll
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.pdb
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.genruntimeconfig.cache
+C:\CSharp\HelloCSharp\obj\Debug\net9.0\ref\HelloCSharp.dll
